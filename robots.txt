@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-2pquxz.trans88.biz/sitemap.xml
